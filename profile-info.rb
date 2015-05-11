@@ -6,8 +6,9 @@ username = "Gneeshot"
 from = { city: "Spring", state: 'Texas', country: 'USA'}
 prompt = ">> "
 
+
 # def print_profile
-  # puts "My name is #{name} but you may know me as #{username}, i am #{age} years old and i am from #{from.values.join(", ")}, and i enjoy the following foods: #{fav_food.join(", ")}!"
+#    puts "My name is #{name} but you may know me as #{username}, i am #{age} years old and i am from #{from.values.join(", ")}, and i enjoy the following foods: #{fav_food.join(", ")}!"
 # end
 
 
